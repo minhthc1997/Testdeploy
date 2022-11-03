@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Web thể thao	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Sep 2022 15:39:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		Phản hồi cho Ngoại hạng Anh vào cuối tuần hoãn gây lo ngại dồn ứ lịch thi đấu bởi tranhuuchauminh		</title>
+		<link>/2022/09/09/ngoai-hang-anh-vao-cuoi-tuan-hoan-gay-lo-ngai-don-u-lich-thi-dau/#comment-2</link>
+
+		<dc:creator><![CDATA[tranhuuchauminh]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2022 15:16:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=76#comment-2</guid>
+
+					<description><![CDATA[Bao giờ mới đá lại nhỉ ?]]></description>
+			<content:encoded><![CDATA[<p>Bao giờ mới đá lại nhỉ ?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
